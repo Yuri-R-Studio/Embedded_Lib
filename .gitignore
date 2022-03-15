@@ -1,6 +1,3 @@
-# CMake
-build
-cmake-*
-
-# IDE
-.idea
+.project
+.cproject
+build/
